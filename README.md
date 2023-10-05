@@ -29,7 +29,7 @@ Documentation group project
 In this section, I will provide evidence of achieving the specified learning outcomes from the course. You can find the proof for each learning outcome below:
 
 1. **Design and Build User-Friendly, Full-Stack Web Applications**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/NuanceDevs/frontend)
 
 2. **Use Software Tooling and Methodology for Continuous Software Quality Improvement**
    - Proof: [Link to Proof]
@@ -52,7 +52,7 @@ In this section, I will provide evidence of achieving the specified learning out
 8. **Act Professionally During Software Development and Learning**
    - Proof: [Link to Proof]
 
-Feel free to click on the links above to explore the evidence for each learning outcome. This documentation demonstrates my growth and proficiency in various aspects of software development and project management.
+
 
 ---
 
