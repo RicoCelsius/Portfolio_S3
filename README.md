@@ -35,7 +35,7 @@ In this section, I will provide evidence of achieving the specified learning out
    - Proof: [Link to Proof]
 
 3. **Implement Agile Software Development Methodology**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://ricofontys.atlassian.net/jira/software/projects/SCRUM/)
 
 4. **Implement (Semi)Automated Software Release Process**
    - Proof: [Link to Proof]
