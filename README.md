@@ -39,7 +39,7 @@ This section will contain detailed documentation for both the group project and 
 In this section, I will provide evidence of achieving the specified learning outcomes from the course. You can find the proof for each learning outcome below:
 
 1. **Design and Build User-Friendly, Full-Stack Web Applications**
-   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/proof/)
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/1-web-applications.md)
 
 2. **Use Software Tooling and Methodology for Continuous Software Quality Improvement**
    - Proof: [Link to Proof]
