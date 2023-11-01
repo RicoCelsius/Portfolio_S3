@@ -1,17 +1,24 @@
 # Portfolio Semester 3
+*Rico Aarntzen*
+
+# Table of Contents
+- [Introduction](#introduction)
+- [Individual Project](#individual-project)
+- [Group Project](#group-project)
+- [Proof of Learning Outcomes](#proof-of-learning-outcomes)
 
 
 ## Introduction
 Welcome to my Semester 3 portfolio! In this portfolio, I will showcase the work and projects I have completed during my third semester.
-
-## Organisation
-
-In this section, I will provide an overview of the organization of this portfolio. I have divided it into two main sections:
+In this portfolio, I explain my learning outcomes and how I was able to demonstrate the learning outcomes. This portfolio will contain references to the projects created. Another seperate repository has been created for the documentation.
+For my individual project, I worked with [Martijn](https://github.com/Martijn-19).
 
 ### Individual Project
-For my individual project, you can explore the code and documentation on my GitHub repository:
+For my individual project, you can explore the code on our GitHub repository:
+To run this project. See the readme inside the repository.
 
 [Individual Project Repository](https://github.com/NuanceDevs)
+[Individual Project Documentation](https://github.com/NuanceDevs/Documentation)
 
 ### Group Project
 In collaboration with my fellow students, we worked on a group project. You can find the project code and related materials on the group project's GitHub repository:
@@ -22,14 +29,17 @@ In collaboration with my fellow students, we worked on a group project. You can 
 ## Documentation
 This section will contain detailed documentation for both the group project and the individual project. Documentation is a crucial aspect of software development, and I believe in providing clear and comprehensive documentation to enhance understanding and usability.
 [Documentation individual project](https://github.com/RicoCelsius/Portfolio_S3/tree/main/Documentatie)
-Documentation group project
+
+
+
+[Documentation group project]()
 
 ## Proof of Learning Outcomes
 
 In this section, I will provide evidence of achieving the specified learning outcomes from the course. You can find the proof for each learning outcome below:
 
 1. **Design and Build User-Friendly, Full-Stack Web Applications**
-   - Proof: [Link to Proof](https://github.com/NuanceDevs/frontend)
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/proof/)
 
 2. **Use Software Tooling and Methodology for Continuous Software Quality Improvement**
    - Proof: [Link to Proof]
