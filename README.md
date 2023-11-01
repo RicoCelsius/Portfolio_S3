@@ -1,5 +1,9 @@
 # Portfolio Semester 3
-*Rico Aarntzen*
+**Author:** *Rico Aarntzen*
+
+**Academic year:** *2023-2024*
+
+**Semester:** *3*
 
 # Table of Contents
 - [Introduction](#introduction)
