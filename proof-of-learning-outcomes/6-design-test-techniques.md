@@ -25,4 +25,3 @@ Validating the quality and efficacy of your designs is key, using:
 - [Feedback from stakeholders and how it influenced the project](#)
 - [Evidence of testing for quality properties (security, performance, etc.)](#)
 
-(Note: Replace the '#' with actual links to your design documents, testing reports, feedback summaries, or other relevant evidence that supports your learning outcome.)
