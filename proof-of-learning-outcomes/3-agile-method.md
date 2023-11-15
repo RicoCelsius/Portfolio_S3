@@ -17,4 +17,4 @@ Agile software development is all about being flexible, fast, and responsive to 
 - [Evidence of using agile methods in a project (e.g., sprints, stand-ups, retrospectives documentation)](#)
 - [Project planning and tracking tools screenshots or reports](#)
 
-(Note: Replace the '#' with actual links to your documentation, code repositories, project management tools, or any other relevant evidence that supports your learning outcome.)
+
