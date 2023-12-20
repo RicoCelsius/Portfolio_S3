@@ -12,10 +12,15 @@ Full-stack applications are like complete meals. In the world of web development
   
 # Proof
 ## User friendly
-For documentation about our user friendly user interace. Look at:
-[UI Documentation](https://github.com/NuanceDevs/Documentation/blob/main/front-end.md)
+For the design piece, we worked with the client to create a first draft. We chose a color scheme. This one was quite simple (black and white). Then we discussed what the components of the website should be. Which pages the client would like to have realized and how they should look. We also went into some detail about features that he felt were necessary: such as creating, editing, deleting a blog post. These pieces are uploaded so that we can always go here when we just don't know exactly how something should look. The UI is intuitive and not difficult to understand. Something that helps ensure a good UX.
 
 ## Full stack
+To realize the product, choices had to be made regarding the programming language and frameworks. Canvas, a Fontys website states that a Javascript framework must be used. Since Martijn and I both wanted to learn a new language, we chose to use Typescript as our base language. This is a superset of Javascript (Javascript with types). As a front-end framework, we chose Next.js so that server side rendering is also possible. This benefits performance and SEO. As a back-end framework, we used Nest.js. NestJS is a framework for building efficient, scalable Node.js server-side applications. This means that we can build everything with Typescript, which we thought was smart so we don't have to switch languages. 
+
+As ORM (Object Relational Mapping) we used TypeORM. ypeORM is an Object-Relational Mapping (ORM) library for TypeScript and JavaScript. TypeORM makes it easier to interact with databases by allowing you to use objects and classes instead of writing SQL queries.
+
+
+
 ### Individual project
 #### Frontend
 - [Frontend Nuance](https://github.com/NuanceDevs/frontend)
