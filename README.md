@@ -46,25 +46,25 @@ In this section, I will provide evidence of achieving the specified learning out
    - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/1-web-applications.md)
 
 2. **Use Software Tooling and Methodology for Continuous Software Quality Improvement**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/2-tooling-and-methodology.md)
 
 3. **Implement Agile Software Development Methodology**
-   - Proof: [Link to Proof](https://ricofontys.atlassian.net/jira/software/projects/SCRUM/)
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/3-agile-method.md)
 
 4. **Implement (Semi)Automated Software Release Process**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/4-CI-CD.md)
 
 5. **Recognize and Account for Cultural Differences and Ethical Aspects**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/5-ethics-culteraldifferences.md)
 
 6. **Translate Requirements and Validate Using Multiple Test Techniques**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/6-design-test-techniques.md)
 
 7. **Explain Simple Business Processes and Relate to Software Development**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/7-business-processes.md)
 
 8. **Act Professionally During Software Development and Learning**
-   - Proof: [Link to Proof]
+   - Proof: [Link to Proof](https://github.com/RicoCelsius/Portfolio_S3/blob/main/proof-of-learning-outcomes/8-professional-manner.md)
 
 
 
